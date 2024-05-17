@@ -1,0 +1,317 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 3,
+            "guid": "d544c68f-8512-4d41-ba84-0406d1dfe71d",
+            "type": {
+                "id": 1,
+                "title": "Podcast",
+                "card_category": 1,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "post": {
+                "id": 69,
+                "guid": "2bf7aab2-b4c8-4cb0-80a0-85f75a8b0ef5",
+                "title": "Cosas normales en las relaciones de pareja",
+                "image": "https://picsum.photos/400",
+                "type": 3,
+                "category": {
+                    "id": 9,
+                    "name": "La relación",
+                    "image": "https://picsum.photos/400",
+                    "icon": "https://picsum.photos/400",
+                    "map_character": "https://picsum.photos/400",
+                    "background_image_card": null,
+                    "primary_color": "#c0e573"
+                },
+                "owner": {
+                    "first_name": "Wefeel",
+                    "last_name": "",
+                    "avatar": {
+                        "id": 37728,
+                        "image": "https://picsum.photos/400",
+                        "avatar_type": 2
+                    }
+                },
+                "new": true,
+                "free": false,
+                "duration": "7m",
+                "preview_duration": "7m",
+                "is_saved": false
+            },
+            "resourcetype": "PodcastCardModel"
+        },
+        {
+            "id": 6,
+            "guid": "a0a45884-2b6e-4030-a947-3eb238c336e4",
+            "type": {
+                "id": 3,
+                "title": "Consejo",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "5 cosas que hacer en pareja al menos una vez en la vida",
+            "content": "<p>- Consequat neque suscipit risus viverra.</p>\r\n<p>- Nec sed elementum tellus viverra.</p>\r\n<p>- Nunc lectus interdum a est gravida.</p>\r\n<p>- Nunc lectus interdum a est gravida.</p>\r\n<p>- Adipiscing nisi urna posuere imperdiet.</p>",
+            "plain_content": "- Consequat neque suscipit risus viverra.\r\n- Nec sed elementum tellus viverra.\r\n- Nunc lectus interdum a est gravida.\r\n- Nunc lectus interdum a est gravida.\r\n- Adipiscing nisi urna posuere imperdiet.",
+            "category": {
+                "id": 2,
+                "name": "Comunicación",
+                "image": "https://picsum.photos/400",
+                "icon": "https://picsum.photos/400",
+                "map_character": "https://picsum.photos/400",
+                "background_image_card": null,
+                "primary_color": "#ffd755"
+            },
+            "image": "https://picsum.photos/400",
+            "resourcetype": "AdviceCardModel"
+        },
+        {
+            "id": 9,
+            "guid": "c4f82c72-b2c6-4ad3-9df2-f5b69a961d31",
+            "type": {
+                "id": 6,
+                "title": "Cuestionario",
+                "card_category": 1,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "post": {
+                "id": 65,
+                "guid": "f52b79c8-ce89-41c4-bb36-e8e9f1e69f05",
+                "title": "Los Lenguajes del Amor",
+                "image": "https://picsum.photos/400",
+                "type": 4,
+                "category": {
+                    "id": 2,
+                    "name": "Comunicación",
+                    "image": "https://picsum.photos/400",
+                    "icon": "https://picsum.photos/400",
+                    "map_character": "https://picsum.photos/400",
+                    "background_image_card": null,
+                    "primary_color": "#ffd755"
+                },
+                "owner": {
+                    "first_name": "Wefeel",
+                    "last_name": "",
+                    "avatar": {
+                        "id": 37728,
+                        "image": "https://picsum.photos/400",
+                        "avatar_type": 2
+                    }
+                },
+                "new": true,
+                "free": false,
+                "duration": "30 preguntas",
+                "preview_duration": null,
+                "is_saved": false
+            },
+            "resourcetype": "QuizCardModel"
+        },
+        {
+            "id": 5,
+            "guid": "76dd70f5-c336-4e5d-b16c-5ae4351b98bc",
+            "type": {
+                "id": 2,
+                "title": "Pildora",
+                "card_category": 1,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "post": {
+                "id": 70,
+                "guid": "a9afe07b-5b4e-4201-9dc9-e7b4522c6a04",
+                "title": "Amor y resiliencia: cuando nuestra pareja nos ayuda a crecer",
+                "image": "https://picsum.photos/400",
+                "type": 1,
+                "category": {
+                    "id": 4,
+                    "name": "Complicidad",
+                    "image": "https://picsum.photos/400",
+                    "icon": "https://picsum.photos/400",
+                    "map_character": "https://picsum.photos/400",
+                    "background_image_card": null,
+                    "primary_color": "#ffad6c"
+                },
+                "owner": {
+                    "first_name": "Wefeel",
+                    "last_name": "",
+                    "avatar": {
+                        "id": 37728,
+                        "image": "https://picsum.photos/400",
+                        "avatar_type": 2
+                    }
+                },
+                "new": true,
+                "free": false,
+                "duration": "5m",
+                "preview_duration": null,
+                "is_saved": false
+            },
+            "resourcetype": "PillCardModel"
+        },
+        {
+            "id": 13,
+            "guid": "ba784e5c-0139-4bd0-8b06-df44fcff025e",
+            "type": {
+                "id": 10,
+                "title": "Libro recomendado",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "Ni de Eva ni de Adán",
+            "author_name": "Amélie Nothomb",
+            "content": "<p>Ni de Eva ni de Ad&aacute;n...</p>",
+            "plain_content": "Ni de Eva ni de Adán...",
+            "image": "https://picsum.photos/400",
+            "resourcetype": "BookCardModel"
+        },
+        {
+            "id": 15,
+            "guid": "21a1d5ef-a6a9-4b0a-b82e-647455d4a0a2",
+            "type": {
+                "id": 11,
+                "title": "Película recomendada",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "El Gato con Botas: el último deseo",
+            "author_name": "Dreamworks",
+            "content": "<p>El Gato con Botas: el &uacute;ltimo deseo...</p>",
+            "plain_content": "El Gato con Botas: el último deseo...",
+            "image": "https://picsum.photos/400",
+            "resourcetype": "MovieCardModel"
+        },
+        {
+            "id": 7,
+            "guid": "2be45886-9249-4616-8726-18bf7af083d1",
+            "type": {
+                "id": 4,
+                "title": "Video",
+                "card_category": 1,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "post": {
+                "id": 42,
+                "guid": "75b346e1-f698-4a95-8d89-7cfdf1af4851",
+                "title": "Pérdida de deseo",
+                "image": "https://picsum.photos/400",
+                "type": 2,
+                "category": {
+                    "id": 3,
+                    "name": "Intimidad",
+                    "image": "https://picsum.photos/400",
+                    "icon": "https://picsum.photos/400",
+                    "map_character": "https://picsum.photos/400",
+                    "background_image_card": null,
+                    "primary_color": "#ff7070"
+                },
+                "owner": {
+                    "first_name": "Wefeel",
+                    "last_name": "",
+                    "avatar": {
+                        "id": 37728,
+                        "image": "https://picsum.photos/400",
+                        "avatar_type": 2
+                    }
+                },
+                "new": false,
+                "free": false,
+                "duration": null,
+                "preview_duration": null,
+                "is_saved": false
+            },
+            "resourcetype": "VideoCardModel"
+        },
+        {
+            "id": 11,
+            "guid": "14cdf9e6-5c48-4ef9-b6de-abd8f770916b",
+            "type": {
+                "id": 8,
+                "title": "Quote",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "content": "<p>El amor es la &uacute;nica respuesta sensata y satisfactoria al problema de la existencia humana.</p>",
+            "plain_content": "El amor es la única respuesta sensata y satisfactoria al problema de la existencia humana.",
+            "author_name": "Roswer García",
+            "background": {
+                "color": "#f1e5ff",
+                "image": "https://picsum.photos/400g"
+            },
+            "resourcetype": "QuoteCardModel"
+        },
+        {
+            "id": 10,
+            "guid": "f9c4013e-9beb-4e03-814f-ffee057311ba",
+            "type": {
+                "id": 7,
+                "title": "Por qué usar wefeel",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "Leed el mismo libro",
+            "content": "Aunque parezca lo más ñoño de la historia, compartir la experiencia de la lectura no sólo incrementará vuestros niveles de cultura, sino que os permitirá conoceros a otro nivel. ¡Será el mejor plan para hacer en pareja!",
+            "background": {
+                "color": "#ffd7b8",
+                "image": "https://picsum.photos/400"
+            },
+            "resourcetype": "IdeaCardModel"
+        },
+        {
+            "id": 12,
+            "guid": "d88a9cb9-851b-4872-add3-02b20e38d578",
+            "type": {
+                "id": 9,
+                "title": "Diccionario wefeel",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "Ghosting",
+            "content": "El ghosting se denomina así por su raíz ghost, que significa fantasma. Esta palabra hace referencia a cuando una persona desaparece como un fantasma de tu vida. Tiende a suceder cuando dos personas se están conociendo, parece que todo va bien, se genera un apego emocional... hasta que de un día para otro esa persona deja de mantener contacto.",
+            "background": {
+                "color": "#ffe9a1",
+                "image": "https://picsum.photos/400"
+            },
+            "resourcetype": "DictionaryCardModel"
+        },
+        {
+            "id": 16,
+            "guid": "f2e6a3c4-fed5-46ab-8f34-3201423ba7ee",
+            "type": {
+                "id": 12,
+                "title": "Serie recomendada",
+                "card_category": 2,
+                "light_icon": "https://picsum.photos/400",
+                "dark_icon": "https://picsum.photos/400"
+            },
+            "is_dark": false,
+            "title": "The Sandman",
+            "author_name": "Neil Gaiman",
+            "content": "<p>Una rica mezcla de mito moderno y fantas&iacute;a oscura en la que la ficci&oacute;n contempor&aacute;nea, el drama hist&oacute;rico y la leyenda est&aacute;n perfectamente entrelazados, The Sandman sigue a las personas y lugares afectados por Morfeo, el rey de los sue&ntilde;os, mientras repara los errores c&oacute;smicos ( y humanos) que cometi&oacute; durante su extensa vida.</p>",
+            "plain_content": "Una rica mezcla de mito moderno y fantasía oscura en la que la ficción contemporánea, el drama histórico y la leyenda están perfectamente entrelazados, The Sandman sigue a las personas y lugares afectados por Morfeo, el rey de los sueños, mientras repara los errores cósmicos ( y humanos) que cometió durante su extensa vida.",
+            "image": "https://picsum.photos/400",
+            "resourcetype": "TvShowCardModel"
+        }
+    ]
+}
